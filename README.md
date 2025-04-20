@@ -8,7 +8,6 @@
 | MTK ReMaker   | ![ReMaker](ReMaker.png)             | ![ReMaker](ReMaker.ico)
 | Mickey        | ![Mickey](Mickey.png)               | ![Mickey](Mickey.ico)
 | Заёбушек      | ![Заёбушек](Заёбушек.png)           | ![Заёбушек](Заёбушек.ico)
-# Custom icons 
 
 ## Putty 256x256 Windows icons 
 [putty](./putty/)
