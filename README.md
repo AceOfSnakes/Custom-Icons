@@ -1,4 +1,4 @@
-## Custom icons 
+## Custom icons for Windows
 
 | Name          |  Image                              | Windows icon
 |:------------- | :---------------------------------: | :-------------------------------------:
