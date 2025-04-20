@@ -8,5 +8,5 @@ Name            |  Image                              | Windows icon
 | MTK ReMaker   | ![ReMaker](ReMaker.png)             | ![ReMaker](ReMaker.ico)
 
 
-# Putty 256x256 icons 
+# Putty 256x256 Windows icons 
 [putty](./putty/)
