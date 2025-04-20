@@ -4,6 +4,7 @@
 |:------------- | :---------------------------------------------: | :-------------------------------------:
 | Ace Of Snakes | ![Ace Of Snakes](screenshots/AceOfSnakes.png)   | ![Ace Of Snakes](screenshots/AceOfSnakes.ico)
 | AvrPioRemote  | ![AvrPioRemote](screenshots/AvrPioRemote.png)   | ![AvrPioRemote](screenshots/AvrPioRemote.ico)
+| James         | ![James](screenshots/James.png)                 | ![James](screenshots/James.ico)
 | Mickey        | ![Mickey](screenshots/Mickey.png)               | ![Mickey](screenshots/Mickey.ico)
 | Msys2         | ![Msys2](screenshots/Msys2.png)                 | ![Msys2](screenshots/Msys2.ico)
 | MTK           | ![MTK](screenshots/MTK.png)                     | ![MTK](screenshots/MTK.ico)
