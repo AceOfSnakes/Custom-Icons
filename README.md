@@ -7,7 +7,7 @@
 | Msys2         | ![Msys2](screenshots/Msys2.png)                 | ![Msys2](screenshots/Msys2.ico)
 | MTK           | ![MTK](screenshots/MTK.png)                     | ![MTK](screenshots/MTK.ico)
 | MtkFwTool     | ![MtkFwTool](screenshots/MtkFwTool.png)         | ![MtkFwTool](screenshots/MtkFwTool.ico)
-| MTKPio        | ![MTKPio](screenshots/MTKPio.png)               | ![MTKPio](screenshots/MTKPio.ico)
+| MTKPio        | ![MtkPio](screenshots/MtkPio.png)               | ![MtkPio](screenshots/MtkPio.ico)
 | MTK ReMaker   | ![ReMaker](screenshots/ReMaker.png)             | ![ReMaker](screenshots/ReMaker.ico)
 | Mickey        | ![Mickey](screenshots/Mickey.png)               | ![Mickey](screenshots/Mickey.ico)
 | NetRC         | ![NetRC](screenshots/NetRC.png)                 | ![NetRC](screenshots/NetRC.ico)
