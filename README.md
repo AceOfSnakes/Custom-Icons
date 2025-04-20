@@ -5,8 +5,11 @@
 | Ace Of Snakes | ![Ace Of Snakes](AceOfSnakes.png)   | ![Ace Of Snakes](AceOfSnakes.ico)
 | Msys2         | ![Msys2](Msys2.png)                 | ![Msys2](Msys2.ico)
 | MTK           | ![MTK](MTK.png)                     | ![MTK](MTK.ico)
+| MTKPio        | ![MTKPio](MTKPio.png)               | ![MTKPio](MTKPio.ico)
+| MtkFwTool     | ![MtkFwTool](MtkFwTool.png)         | ![MtkFwTool](MtkFwTool.ico)
 | MTK ReMaker   | ![ReMaker](ReMaker.png)             | ![ReMaker](ReMaker.ico)
 | Mickey        | ![Mickey](Mickey.png)               | ![Mickey](Mickey.ico)
+| NetRC         | ![NetRC](NetRC.png)                 | ![NetRC](NetRC.ico)
 | Заёбушек      | ![Заёбушек](Заёбушек.png)           | ![Заёбушек](Заёбушек.ico)
 
 ## Putty 256x256 Windows icons 
