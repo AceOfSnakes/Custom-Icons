@@ -14,6 +14,6 @@
 | NetRC         | ![NetRC](screenshots/NetRC.png)                 | ![NetRC](screenshots/NetRC.ico)
 | Заёбушек      | ![Заёбушек](screenshots/Заёбушек.png)           | ![Заёбушек](screenshots/Заёбушек.ico)
 
-## Putty 256x256 Windows icons 
-[putty](./putty/)
+## [Putty 256x256 Windows icons ](./putty/)
+
 
