@@ -1,12 +1,12 @@
 ## Putty Windows 256x256.icons
 
-| Name          |  Image                         | Windows icon
-|:------------- | :----------------------------: | :------------------------:
-| pagent        | ![pagent](./pageant.png)       | ![pagent](./pageant.ico)
-| pscp          | ![pscp](./pscp.png)            | ![pscp](./pscp.ico)
-| pterm         | ![pterm](./pterm.png)          | ![pterm](./pterm.ico)
-| ptermcfg      | ![ptermcfg](./ptermcfg.png)    | ![ptermcfg](./ptermcfg.ico)
-| putty         | ![putty](./putty.png)          | ![putty](./putty.ico)
-| puttycfg      | ![puttycfg](./puttycfg.png)    | ![puttycfg](./puttycfg.ico)
-| puttygen      | ![puttygen](./puttygen.png)    | ![puttygen](./puttygen.ico)
-| puttyins      | ![puttyins](./puttyins.png)    | ![puttyins](./puttyins.ico)
+| Name          |  Image                            | Windows icon
+|:------------- | :-------------------------------: | :------------------------:
+| pagent        | ![pagent](./putty/pageant.png)    | ![pagent](./putty/pageant.ico)
+| pscp          | ![pscp](./putty/pspcp.png)        | ![pscp](./putty/pscp.ico)
+| pterm         | ![pterm](./putty/pterm.png)       | ![pterm](./putty/pterm.ico)
+| ptermcfg      | ![ptermcfg](./putty/ptermcfg.png) | ![ptermcfg](./putty/ptermcfg.ico)
+| putty         | ![putty](./putty/putty.png)       | ![putty](./putty/putty.ico)
+| puttycfg      | ![puttycfg](./putty/puttycfg.png) | ![puttycfg](./putty/puttycfg.ico)
+| puttygen      | ![puttygen](./putty/puttygen.png) | ![puttygen](./putty/puttygen.ico)
+| puttyins      | ![puttyins](./putty/puttyins.png) | ![puttyins](./putty/puttyins.ico)
