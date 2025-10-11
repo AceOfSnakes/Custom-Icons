@@ -13,6 +13,7 @@
 | MTK ReMaker   | ![ReMaker](screenshots/ReMaker.png)             | ![ReMaker](screenshots/ReMaker.ico)
 | NetRC         | ![NetRC](screenshots/NetRC.png)                 | ![NetRC](screenshots/NetRC.ico)
 | Заёбушек      | ![Заёбушек](screenshots/Заёбушек.png)           | ![Заёбушек](screenshots/Заёбушек.ico)
+| NFS           | ![NFS](screenshots/nfs.png)                     | ![NFS](screenshots/nfs.ico)
 
 ## [Putty 256x256 Windows icons ](./putty/)
 
